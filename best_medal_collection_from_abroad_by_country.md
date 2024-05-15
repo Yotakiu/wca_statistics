@@ -108,7 +108,7 @@
 | Algeria | **1** | 1 | 11 | 13 |
 | United Arab Emirates | **1** | 0 | 2 | 3 |
 | Andorra | **1** | 0 | 0 | 1 |
-| Cuba | **1** | 0 | 0 | 1 |
+| Cuba | **1** | 1 | 0 | 1 |
 | Albania | **0** | 3 | 2 | 5 |
 | Saint Kitts and Nevis | **0** | 3 | 0 | 3 |
 | Syria | **0** | 3 | 0 | 3 |
